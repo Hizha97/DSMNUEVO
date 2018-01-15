@@ -1,0 +1,62 @@
+.catalina-ball {
+   background-image: url(./../img/ciudad/monumento1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.catalina-ball:hover
+{
+    opacity: 0.3;   
+}
+.sebastian-ball {
+   background-image: url(./../img/ciudad/monumento2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.sebastian-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.mercado-ball {
+   background-image: url(./../img/ciudad/monumento3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.mercado-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.juandedios-ball {
+   background-image: url(./../img/ciudad/monumento4.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.juandedios-ball:hover
+{
+    opacity: 0.3;   
+}
