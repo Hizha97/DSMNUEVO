@@ -1,0 +1,69 @@
+.calendar {
+    margin-top: 40px;
+}
+
+.bloquesdiv {
+    background-color: #f5ce29;
+    align-content: center;
+    border-radius: 25px;
+}
+
+table,
+td {
+    border: 1px solid grey;
+}
+
+table {
+    background-color: #43c0f6;
+    width: 100%;
+    height: 50%;
+    border-radius: 25px;
+}
+
+#fotopeople {
+    height: 235px;
+}
+
+.bloques {
+    background-color: #f2eee2;
+}
+
+#pinturaVR {
+    height: 180px;
+}
+
+#despedida {
+    height: 230px;
+}
+
+
+
+#feb {
+    background-color: red;
+}
+
+td {
+    width: 2%;
+    text-align: center;
+    background-color: #f2eee2;
+    border-radius: 15px;
+}
+
+.semana {
+    color: #f91b88;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.56s;
+}
+
+.semana:hover {
+    background-color: white;
+}
+
+.bloquesdias {
+    background-color: aqua;
+    border-radius: 26px 26px 26px 26px;
+    -moz-border-radius: 26px 26px 26px 26px;
+    -webkit-border-radius: 26px 26px 26px 26px;
+    padding: 20px
+}

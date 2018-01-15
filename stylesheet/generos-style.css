@@ -1,0 +1,99 @@
+.superball-1 {
+   
+    background-image: url(./../img/superheroesdibujo1.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-2 {
+   
+    background-image: url(./../img/superheoresdibujo2.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-3 {
+   
+    background-image: url(./../img/superheoresdibujo3.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-1 {
+   
+    background-image: url(./../img/humor1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-2 {
+   
+    background-image: url(./../img/humor2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-3 {
+   
+    background-image: url(./../img/humor3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-1 {
+   
+    background-image: url(./../img/scifi1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-2 {
+   
+    background-image: url(./../img/scifi2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-3 {
+   
+    background-image: url(./../img/scifi3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+

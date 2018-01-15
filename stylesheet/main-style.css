@@ -1,0 +1,188 @@
+body {
+    background-color: #f2eee2;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: #454545;
+     transition: color 0.56s;
+}
+
+.container {
+    min-height: 100vh;
+    /* will cover the 100% of viewport */
+    overflow: hidden;
+    display: block;
+    position: relative;
+    padding-bottom: 100px;
+    /* height of your footer */
+}
+
+.roboto-slab-text {
+    font-family: 'Roboto Slab', serif;
+}
+
+.roboto-text {
+    font-family: 'Roboto', sans-serif;
+}
+
+.oswald-text {
+    font-family: 'Oswald', sans-serif;
+}
+
+.header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    background-color: #343434;
+}
+
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #343434;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #343434;
+}
+
+li:last-child {
+    background-color: #f91b88;
+    float: right;
+    border-right: none;
+}
+
+.active {
+    background-color: #f5ce29;
+}
+
+@media screen and (max-width: 600px) {
+    ul li.right,
+    ul li {
+        float: none;
+    }
+}
+
+.yellow-ball {
+    margin-top: 60px;
+    margin-right: 40px;
+    background-color: #f5ce29;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+
+@media screen and (max-width: 600px) {
+    .yellow-ball {
+        margin-top: 290px;
+    }
+}
+
+.pink-ball {
+    margin-top: 60px;
+    margin-right: 40px;
+    background-color: #f91b88;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.inside-icon {
+    margin-top: 30%;
+    margin-left: 4%;
+    text-align: center;
+}
+
+.blue-ball {
+    margin-top: 60px;
+    margin-right: 40px;
+    background-color: #43c0f6;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+
+.index-body {
+    margin-top: 10px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    background-color: #343434;
+}
+
+@media screen and (max-width: 600px) {
+    .footer {
+        max-height: 40px;
+    }
+
+
+    .footer h1 {
+        font-size: 70%;
+    }
+
+    .footer h1 p {
+        font-size: 70%;
+    }
+}
+
+.align-center {
+    text-align: center;
+}
+
+.footer-margin {
+    margin-bottom: 150px;
+}
+
+.ball-align
+{
+    margin-top: 35%;
+}
+
+.text-white
+{
+    color: white;
+}
+
+.text-magenta
+{
+    color: #f91b88;
+}
+
+.mt-10
+{
+    margin-top: 10px;
+    padding-top: 10px;
+}

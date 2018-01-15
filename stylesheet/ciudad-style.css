@@ -1,0 +1,31 @@
+.cadiz-ball {
+   background-image: url(./../img/ciudad/cadiz2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.cadiz-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.cadiz2-ball {
+   background-image: url(./../img/ciudad/cadiz1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.cadiz2-ball:hover
+{
+    opacity: 0.3;   
+}

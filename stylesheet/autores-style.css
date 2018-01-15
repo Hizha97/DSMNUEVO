@@ -1,0 +1,110 @@
+.brian-ball
+{
+   
+    background-image: url(./../img/autores/brian.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.brian-ball:hover 
+{
+    opacity: 0.3;    
+}
+
+
+.jeph-ball
+{
+   
+    background-image: url(./../img/autores/jeph.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.jeph-ball:hover 
+{
+    opacity: 0.3;    
+}
+
+.geoff-ball
+{
+   
+    background-image: url(./../img/autores/autor3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.geoff-ball:hover 
+{
+    opacity: 0.3;    
+}
+
+.grant-ball
+{
+   
+    background-image: url(./../img/autores/autor4.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.grant-ball:hover 
+{
+    opacity: 0.3;    
+}
+
+.jesus-ball
+{
+   
+    background-image: url(./../img/autores/autor5.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.jesus-ball:hover 
+{
+    opacity: 0.3;
+}
+
+.salvador-ball
+{
+   
+    background-image: url(./../img/autores/autor6.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.salvador-ball:hover 
+{
+    opacity: 0.3;    
+}
+
+
