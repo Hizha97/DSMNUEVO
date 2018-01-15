@@ -1,0 +1,125 @@
+.foto1-ball
+{
+    background-image: url(./../img/galeria/foto1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto1-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto2-ball
+{
+    background-image: url(./../img/galeria/foto2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto2-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto3-ball
+{
+    background-image: url(./../img/galeria/foto3.png);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto3-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto4-ball
+{
+    background-image: url(./../img/galeria/foto4.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto4-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto5-ball
+{
+    background-image: url(./../img/galeria/foto5.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto5-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto6-ball
+{
+    background-image: url(./../img/galeria/foto6.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto6-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto7-ball
+{
+    background-image: url(./../img/galeria/foto7.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto7-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto8-ball
+{
+    background-image: url(./../img/galeria/foto8.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto8-ball:hover
+{
+    opacity: 0.3;   
+}
