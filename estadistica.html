@@ -1,0 +1,117 @@
+<html>
+
+<head>
+    <script src="js/Chart.bundle.js"></script>
+    <style>
+        canvas {
+            -moz-user-select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+        }
+
+    </style>
+    <title>LOCALIZACION</title>
+    <link rel="stylesheet" type="text/css" href="stylesheet/unsemantic-grid-responsive-tablet.css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald|Raleway|Roboto|Roboto+Slab" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="stylesheet/main-style.css">
+    <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
+    <meta name="viewport" content="
+      width=device-width,
+      initial-scale=1,
+      minimum-scale=1,
+      maximum-scale=1
+    " />
+</head>
+
+<body>
+    <div class="container">
+        <div class="grid-100 header">
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="programacion.html">Programación</a></li>
+                <li><a href="localizacion.html">Localización</a></li>
+                <li><a href="generos.html">Géneros</a></li>
+                <li><a href="autores.html">Autores</a></li>
+                <li><a href="galeria.html">Galería</a></li>
+            </ul>
+        </div>
+        <div class="grid-33 suffix-33 prefix-40 blue-ball">
+            <div class="grid-100 inside-icon">
+                <i class="fas fa-chart-area fa-2x"></i>
+            </div>
+            <strong><h2 class="align-center">Estadística</h2></strong>
+        </div>
+        <div class="clear"></div>
+        <hr>
+        <div>
+        <div class="grid-60 prefix-20">
+           <canvas id="canvas"></canvas>
+            <script>
+                var barChartData = {
+                    labels: ["Superheroes", "Humor", "Ciencia ficcion", "Anime"],
+                    datasets: [{
+                        label: 'Preferencias',
+                        backgroundColor: '#f91b88',
+                        borderColor: 'black',
+                        borderWidth: 2,
+                        data: [25, 33, 7, 35]
+                    }]
+
+                };
+
+                window.onload = function() {
+                    var ctx = document.getElementById("canvas").getContext("2d");
+
+                    Chart.scaleService.updateScaleDefaults('linear', {
+                        ticks: {
+                            min: 0
+                        }
+                    });
+
+                    window.myBar = new Chart(ctx, {
+                        type: 'bar',
+                        data: barChartData,
+                        options: {
+                            responsive: true,
+                            legend: {
+                                position: 'right',
+                            },
+                            title: {
+                                display: true,
+                                text: 'Preferencias de los comics',
+                                fontSize: 30
+                            },
+
+                            scales: {
+                                xAxes: [{
+                                    display: true,
+                                    scaleLabel: {
+                                        display: true,
+                                        labelString: 'Géneros'
+                                    }
+                                }],
+                                yAxes: [{
+                                    display: true,
+                                    scaleLabel: {
+                                        display: true,
+                                        labelString: 'Personas entrevistadas'
+                                    }
+                                }]
+                            }
+                        }
+                    });
+
+                };
+
+            </script>
+        </div>
+    </div>
+    <div class="grid-100 footer-margin"></div>
+        <div class="grid-100 footer">
+            <h1 class="roboto-slab-text">XXI SALÓN INTERNACIONAL DEL COMIC DE CÁDIZ</h1>
+            <p class="oswald-text">Página creada por Fanny, Peri e Isabel</p>
+        </div>
+    </div>
+</body>
+
+</html>
