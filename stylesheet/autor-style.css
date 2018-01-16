@@ -79,3 +79,42 @@
     margin-right: 10px;
     transition: opacity 1s;
 }
+
+.fallenson-ball
+{
+   
+    background-image: url(./../img/autores/fallenson.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.longhallo-ball
+{
+   
+    background-image: url(./../img/autores/longhallo.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.darkvictory-ball
+{
+   
+    background-image: url(./../img/autores/darkvictory.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
