@@ -157,3 +157,73 @@
     margin-top: 70px;
     margin-right: 10px;
 }
+
+.flash-ball
+{
+   
+    background-image: url(./../img/autores/comic10.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.superman-ball
+{
+   
+    background-image: url(./../img/autores/comic11.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.aquaman-ball
+{
+   
+    background-image: url(./../img/autores/comic12.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.demon-ball
+{
+   
+    background-image: url(./../img/autores/comic13.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.excalibur-ball
+{
+    background-image: url(./../img/autores/comic14.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
+
+.heroes-ball
+{
+    background-image: url(./../img/autores/comic15.JPG);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+}
