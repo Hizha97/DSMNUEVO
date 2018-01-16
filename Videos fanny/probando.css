@@ -1,0 +1,39 @@
+#cuerpo{
+  width: 500px;
+  margin:  10px auto;
+  padding:  5px;
+  border-radius: 20px;
+}
+
+#video{
+  display: block;
+  margin: 10px auto;
+}
+
+nav{
+  height: 30px;
+  width:  352px;
+  margin: 5px auto;
+}
+
+#botones{
+  float: left;
+  width: 40px;
+
+}
+#barra{
+  float: left;
+  width:  275px;
+  height: 6px;
+  margin-left: 5px;
+  margin-top:  5px;
+  padding: 2px;
+
+  background: grey;
+}
+
+#barraProgreso{
+  width: 0px;
+  height:  6px;
+  background:  red;
+}
