@@ -123,3 +123,129 @@
 {
     opacity: 0.3;   
 }
+
+.foto9-ball
+{
+    background-image: url(./../img/galeria/foto9.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto9-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto10-ball
+{
+    background-image: url(./../img/galeria/foto10.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto10-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto11-ball
+{
+    background-image: url(./../img/galeria/foto11.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto11-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto12-ball
+{
+    background-image: url(./../img/galeria/foto12.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto12-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto13-ball
+{
+    background-image: url(./../img/galeria/foto13.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto13-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto14-ball
+{
+    background-image: url(./../img/galeria/foto14.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto14-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto15-ball
+{
+    background-image: url(./../img/galeria/foto15.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto15-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto16-ball
+{
+    background-image: url(./../img/galeria/foto16.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto16-ball:hover
+{
+    opacity: 0.3;   
+}
