@@ -5,6 +5,7 @@
     <link rel="stylesheet" type="text/css" href="stylesheet/unsemantic-grid-responsive-tablet.css">
     <link href="https://fonts.googleapis.com/css?family=Oswald|Raleway|Roboto|Roboto+Slab" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="stylesheet/main-style.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet/index-style.css">
     <link href="https://use.fontawesome.com/releases/v5.0.4/css/all.css" rel="stylesheet">
     <meta name="viewport" content="
       width=device-width,
@@ -50,12 +51,35 @@
                 <strong>Descubre las estadisticas del evento</strong>
             </div>
         </a>
-
-        <div class="grid-100 index-body">
-            <hr>
-            
-
+        <div class="clear"></div>
+        <hr>
+        <div class="grid-80 prefix-30">
+            <canvas id="titulo" width="700" height="100"> </canvas>
+            <script>
+                var c = document.getElementById("titulo");
+                var ctx = c.getContext("2d");
+                ctx.font = "20px Raleway";
+                ctx.fillText("XXI Salón Internacional del Cómic de Cádiz", 10, 50);
+            </script>
         </div>
+        <div class="clear"></div>
+        <a href="autores.html">
+            <div class="grid-30 suffix-10  prefix-10 indexpic1-ball">
+                <strong><h2 class="ball-align text-white text-border">Conoce a los mejores autores</h2></strong>
+            </div>
+        </a>
+        <a href="generos.html">
+        <div class="grid-30 prefix-5 indexpic2-ball">
+            <strong><h2 class="ball-align text-white text-border">Lee sobre los géneros del comic</h2></strong>
+        </div>
+        </a>
+        <a href="juego.html">
+        <div class="grid-30 prefix-5 indexpic3-ball">
+            <strong><h2 class="ball-align text-white text-border">Prueba nuestro juego con CreateJS</h2></strong>
+        </div>
+        </a>
+        <div class="clear"></div>
+        <div class="grid-100 footer-margin"></div>
         <div class="grid-100 footer">
             <h1 class="roboto-slab-text">XXI SALÓN INTERNACIONAL DEL COMIC DE CÁDIZ</h1>
             <p class="oswald-text">Página creada por Fanny, Peri e Isabel</p>

@@ -1,0 +1,47 @@
+.indexpic1-ball
+{
+    background-image: url(./../img/indexpic1.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.indexpic1-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.indexpic2-ball
+{
+    background-image: url(./../img/indexpic2.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.indexpic2-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.indexpic3-ball
+{
+    background-image: url(./../img/indexpic3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.indexpic3-ball:hover
+{
+    opacity: 0.3;   
+}

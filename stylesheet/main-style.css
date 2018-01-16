@@ -186,3 +186,7 @@ li:last-child {
     margin-top: 10px;
     padding-top: 10px;
 }
+.text-border
+{
+    text-shadow: 0 0 6px #000;
+}
