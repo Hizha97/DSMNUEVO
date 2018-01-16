@@ -43,9 +43,8 @@
         </div>
         <div class="clear"></div>
         <hr>
-        <div>
         <div class="grid-60 prefix-20">
-           <canvas id="canvas"></canvas>
+            <canvas id="canvas"></canvas>
             <script>
                 var barChartData = {
                     labels: ["Superheroes", "Humor", "Ciencia ficcion", "Anime"],
@@ -105,8 +104,58 @@
 
             </script>
         </div>
-    </div>
-    <div class="grid-100 footer-margin"></div>
+        <div class="grid-100">
+            <canvas id="canvas2" width="300" height="100"></canvas>
+            <script>
+                var ctx = document.getElementById("canvas2");
+                var myChart = new Chart(ctx, {
+                    type: 'doughnut',
+                    type: 'pie',
+                    data: {
+                        labels: [
+                            "EEUU",
+                            "España",
+                            "Japon",
+                            "Francia",
+                            "Otros",
+                        ],
+                        datasets: [{
+                            data: [45.3, 18.2, 16.7, 14.3, 5.5],
+                            backgroundColor: [
+                                "#1178F0",
+                                "#FFCE56",
+                                "#f91b88",
+                                "#5E20D0",
+                                "#20D0A1",
+                            ],
+                            hoverBackgroundColor: [
+                                "#1178F0",
+                                "#FFCE56",
+                                "#f91b88",
+                                "#5E20D0",
+                                "#20D0A1"
+                            ]
+                        }]
+                    },
+                    options: {
+                        title: {
+                            display: true,
+                            text: '¿De dónde vienen los comics más vendidos en España?',
+                            fontSize: 30
+                        },
+                        responsive: true,
+                        legend: {
+                            display: true
+                        },
+                        tooltips: {
+                            enabled: true,
+                        }
+                    }
+                });
+
+            </script>
+        </div>
+        <div class="grid-100 footer-margin"></div>
         <div class="grid-100 footer">
             <h1 class="roboto-slab-text">XXI SALÓN INTERNACIONAL DEL COMIC DE CÁDIZ</h1>
             <p class="oswald-text">Página creada por Fanny, Peri e Isabel</p>
