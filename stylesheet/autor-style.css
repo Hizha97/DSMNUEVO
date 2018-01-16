@@ -118,3 +118,41 @@
     margin-right: 10px;
     transition: opacity 1s;
 }
+
+.crisis-ball
+{
+   
+    background-image: url(./../img/autores/comic7.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.soldados-ball
+{
+   
+    background-image: url(./../img/autores/comic8.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+.arkham-ball
+{
+   
+    background-image: url(./../img/autores/comic9.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 200px;
+    height: 200px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
