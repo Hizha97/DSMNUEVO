@@ -116,6 +116,7 @@
     height: 200px;
     margin-top: 70px;
     margin-right: 10px;
+
     transition: opacity 1s;
 }
 
@@ -155,4 +156,4 @@
     height: 200px;
     margin-top: 70px;
     margin-right: 10px;
-    transition: opacity 1s;
+}
