@@ -15,7 +15,7 @@ a:hover
      transition: color 0.56s;
 }
 
-.container {
+.grid-container {
     min-height: 100vh;
     /* will cover the 100% of viewport */
     overflow: hidden;
@@ -92,7 +92,6 @@ li:last-child {
 
 .yellow-ball {
     margin-top: 60px;
-    margin-right: 40px;
     background-color: #f5ce29;
     border-radius: 50%;
     width: 200px;
@@ -108,7 +107,6 @@ li:last-child {
 
 .pink-ball {
     margin-top: 60px;
-    margin-right: 40px;
     background-color: #f91b88;
     border-radius: 50%;
     width: 200px;
@@ -123,7 +121,6 @@ li:last-child {
 
 .blue-ball {
     margin-top: 60px;
-    margin-right: 40px;
     background-color: #43c0f6;
     border-radius: 50%;
     width: 200px;
