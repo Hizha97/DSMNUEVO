@@ -3,7 +3,7 @@ function iniciar(){
   reproducir = document.getElementById("play");
   
   barra = document.getElementById("barra");
-  barra.largoBarra = 370;
+  barra.largoBarra = 300;
   
   barraProgreso = document.getElementById("barraProgreso");
     
