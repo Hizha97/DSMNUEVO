@@ -80,17 +80,10 @@
     transition: opacity 1s;
 }
 
-<<<<<<< HEAD
 .fallenson-ball
 {
    
     background-image: url(./../img/autores/fallenson.jpg);
-=======
-.crisis-ball
-{
-   
-    background-image: url(./../img/autores/comic7.jpg);
->>>>>>> 4213beef3df1848c58ed9601f9bc3f62f4ee6712
     border-radius: 50%;
     background-repeat: repeat;
     width: 200px;
@@ -100,17 +93,10 @@
     transition: opacity 1s;
 }
 
-<<<<<<< HEAD
 .longhallo-ball
 {
    
     background-image: url(./../img/autores/longhallo.jpg);
-=======
-.soldados-ball
-{
-   
-    background-image: url(./../img/autores/comic8.jpg);
->>>>>>> 4213beef3df1848c58ed9601f9bc3f62f4ee6712
     border-radius: 50%;
     background-repeat: repeat;
     width: 200px;
@@ -120,17 +106,10 @@
     transition: opacity 1s;
 }
 
-<<<<<<< HEAD
 .darkvictory-ball
 {
    
     background-image: url(./../img/autores/darkvictory.jpg);
-=======
-.arkham-ball
-{
-   
-    background-image: url(./../img/autores/comic9.jpg);
->>>>>>> 4213beef3df1848c58ed9601f9bc3f62f4ee6712
     border-radius: 50%;
     background-repeat: repeat;
     width: 200px;
