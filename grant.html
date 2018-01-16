@@ -7,6 +7,8 @@
     <link rel="stylesheet" type="text/css" href="stylesheet/main-style.css">
     <link rel="stylesheet" type="text/css" href="stylesheet/autor-style.css">
     <link rel="stylesheet" type="text/css" href="stylesheet/autores-style.css">
+    <link rel="stylesheet" type="text/css" href="stylesheet/video-style.css"> 
+    <script src="js/video.js" type="application/x-javascript"></script>
     <meta name="viewport" content="
       width=device-width,
       initial-scale=1,
@@ -46,6 +48,25 @@
 
             </p>
         </div>
+        
+        <div class="clear"></div>
+        
+        <div class="grid-100" style="text-align: center;">
+            <video id="video" height="300" width="400"> 
+			     <source src="videos/grant.mp4"> 
+		    </video>
+            
+            <nav>
+                <div id="botones"> 
+			         <button type="button" id="play"><img src="img/play.jpg"></button>
+                </div>
+                
+                <div id="barra">
+                    <div id="barraProgreso"> </div>
+                </div>
+            </nav>
+        </div>
+        
         <div class="clear"></div>
         <hr>
         
