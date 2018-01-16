@@ -1,0 +1,16 @@
+.brian-ball
+{
+   
+    background-image: url(./../img/autores/brian.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 70px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+
+#comic{
+    font-size: 20px;
+}
