@@ -17,12 +17,10 @@ a:hover
 
 .grid-container {
     min-height: 100vh;
-    /* will cover the 100% of viewport */
     overflow: hidden;
     display: block;
     position: relative;
     padding-bottom: 100px;
-    /* height of your footer */
 }
 
 .roboto-slab-text {

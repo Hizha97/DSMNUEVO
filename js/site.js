@@ -1,10 +1,10 @@
-var _colors = ["#00ff00"] //[, "#00ff00", "#0000ff", "#ffff00", "#ff00ff", "#00ffff"];
+var _colors = ["#00ff00"] 
 var KEYCODE_LEFT = 37,
 	KEYCODE_UP = 38,
 	KEYCODE_RIGHT = 39,
 	KEYCODE_DOWN = 40;
 
-var _update = true; // Set to true to call for stage update
+var _update = true; 
 var _canvas, _stage, _drawingCanvas;
 
 var _cursorPt = [0,0];
@@ -12,7 +12,6 @@ var _drawingStroke = false;
 
 var _reseting = false;
 
-//////////////////////////////////// Initialization ///////////////////////////////////////
 
 $(document).ready(function() { 
 	_canvas = document.getElementById("canvas");
@@ -29,12 +28,10 @@ $(document).ready(function() {
 	_stage.addEventListener("stagemouseup", _handleMouseUp);
 	window.addEventListener("keydown", _keyPressed,true);
 
-	// Start Snake
 	_reset();
 	setInterval(_updatePlayers,50);
 });
 
-//////////////////////////////////// Mouse Actions ///////////////////////////////////////
 
 function _handleMouseDown (evt) {
 	if (!evt.primary) { return; }

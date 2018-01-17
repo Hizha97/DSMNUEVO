@@ -248,3 +248,81 @@
 {
     opacity: 0.3;   
 }
+
+.foto17-ball
+{
+    background-image: url(./../img/galeria/foto17.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto17-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto18-ball
+{
+    background-image: url(./../img/galeria/foto18.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto18-ball:hover
+{
+    opacity: 0.3;   
+}
+
+.foto19-ball
+{
+    background-image: url(./../img/galeria/foto19.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto19-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto20-ball
+{
+    background-image: url(./../img/galeria/foto20.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto20-ball:hover
+{
+    opacity: 0.3;   
+}
+.foto21-ball
+{
+    background-image: url(./../img/galeria/foto21.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+    transition: opacity 1s;
+}
+.foto21-ball:hover
+{
+    opacity: 0.3;   
+}
