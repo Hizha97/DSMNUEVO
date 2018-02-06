@@ -31,6 +31,72 @@
     margin-right: 10px;
 }
 
+.superball-4 {
+   
+    background-image: url(./../img/super4.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-5 {
+   
+    background-image: url(./../img/superheroesdibujo5.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-6 {
+   
+    background-image: url(./../img/superheoresdibujo6.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-7 {
+   
+    background-image: url(./../img/super7.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-8 {
+   
+    background-image: url(./../img/super8.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.superball-9 {
+   
+    background-image: url(./../img/super9.jpeg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
 .humorball-1 {
    
     background-image: url(./../img/humor1.jpg);
@@ -64,6 +130,72 @@
     margin-right: 10px;
 }
 
+.humorball-4 {
+   
+    background-image: url(./../img/humor4.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-5 {
+   
+    background-image: url(./../img/humor5.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-6 {
+   
+    background-image: url(./../img/humor6.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-7 {
+   
+    background-image: url(./../img/humor7.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-8 {
+   
+    background-image: url(./../img/humor8.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.humorball-9 {
+   
+    background-image: url(./../img/humor9.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
 .scifiball-1 {
    
     background-image: url(./../img/scifi1.jpg);
@@ -89,6 +221,72 @@
 .scifiball-3 {
    
     background-image: url(./../img/scifi3.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-4 {
+   
+    background-image: url(./../img/ciencias4.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-5 {
+   
+    background-image: url(./../img/ciencias5.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-6 {
+   
+    background-image: url(./../img/ciencias6.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-7 {
+   
+    background-image: url(./../img/ciencias7.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-8 {
+   
+    background-image: url(./../img/ciencias8.jpg);
+    border-radius: 50%;
+    background-repeat: repeat;
+    width: 300px;
+    height: 300px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.scifiball-9 {
+   
+    background-image: url(./../img/ciencias9.jpg);
     border-radius: 50%;
     background-repeat: repeat;
     width: 300px;
